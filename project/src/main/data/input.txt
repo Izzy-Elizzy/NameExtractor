@@ -1,0 +1,9 @@
+<NER>"Corey Brady likes to eat pizza"</NER>
+<NER>"Tom Brady is overated"</NER>
+<NER>"Willy Wonka likes candy"</NER>
+<NER>Major Philip L. Cunningham, USA 
+ Foreign Military Sales (FMS) customers are often critical of the high cost and long lead time 
+ of weapon systems they have purchased. They are usually familiar with auditing and quality 
+ services and from time to time even request DOD services on their commercial contracts. DOD's 
+ Industrial Modernization Incentive Program (IMIP) is another important tool used to keep costs 
+ down, improve quality, and shorten lead time</NER>

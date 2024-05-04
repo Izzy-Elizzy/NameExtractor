@@ -1,0 +1,1 @@
+<NER>It should not mark Puerto Rico, Aajker Creek, Hampton, Maryland, and Canada with PER tags.</NER>

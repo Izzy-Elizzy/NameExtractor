@@ -1,0 +1,1 @@
+<NER> Mr. jones lives in Alabama and is a major in the U.S military. He has three kids Kyle, Matthew, and George. </NER>

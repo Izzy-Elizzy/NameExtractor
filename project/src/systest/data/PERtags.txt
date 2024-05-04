@@ -1,0 +1,1 @@
+<NER>Bob is a person and so is Joe.</NER>

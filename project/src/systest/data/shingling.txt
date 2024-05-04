@@ -1,0 +1,1 @@
+<NER>by John Doe, Lawrence Livermore Laboratory</NER>

@@ -1,0 +1,9 @@
+!--r 1-(<PER>N</PER>-1)+$2 <PER>N</PER>-1)
+"*
+"<PER>China</PER>'s <PER>Pursuit</PER> for <PER>World</PER> <PER>Power</PER> <PER>Status</PER>:<PER>Is</PER> the <PER>Transformation</PER> of the
+"<PER>Now</PER>,<PER>I</PER>'ll manage better this time."<PER>Alice</PER> in
+<PER>Wonderland</PER>
+"<PER>Program</PER> <PER>Evaluation</PER> of <PER>Outcomes</PER> <PER>Based</PER> <PER>Orthotic</PER> and <PER>Prosthetic</PER> <PER>Education</PER>
+"<PER>The</PER> <PER>PLA</PER> <PER>Navy</PER>'s <PER>Build</PER>-up and <PER>ROK</PER>-<PER>USN</PER> <PER>Cooperation</PER>
+"<PER>This</PER> work was supported by the <PER>Air</PER> <PER>Force</PER> <PER>Office</PER> of <PER>Scientific</PER> <PER>Research</PER>(<PER>AFOSR</PER>    
+ 

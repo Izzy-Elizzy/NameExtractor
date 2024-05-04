@@ -1,0 +1,1 @@
+<NER>This is a sentence with some English words and non-English words like rendezvous.</NER>

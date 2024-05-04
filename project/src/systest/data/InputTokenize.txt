@@ -1,0 +1,1 @@
+<NER> this is a block of the text that is showing how tokenization works in the input txt file </NER>

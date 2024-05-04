@@ -1,0 +1,2 @@
+<NER>
+Matthew A Haydon is a person, 8 is a number, and PETER is also a person.</NER>
